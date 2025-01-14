@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @genesjockey
-- 👀 I’m interested in quantiative genetics of native plant populations, computer networking, computing research infrastructure, scuence policy, ttrpg, Pokemon, and more.
-- 🌱 I’m currently learning aspects of computer networking.
+- 👀 I’m interested in quantiative genetics of native plant populations, computer networking, computing research infrastructure, food science, science policy, ttrpg, Pokemon, and more.
+- 🌱 I’m currently learning aspects of food science.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
